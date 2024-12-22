@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  KCHerosSwiftUI
+
+  Created by Kary Rguez on 20/12/24.
+  
+*/
+"Entrar" = "Login";
+"Clave" = "Password";
+"Registro" = "Register";
+"¿No tienes cuenta?" = "You don't have an account";
